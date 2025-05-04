@@ -8,8 +8,8 @@ tags:
 ## 📍 Basic Info 
 - **Type:** City
 - **Region:** [[Republic of Begoestia]]  
-- **Notable Residents:** [[Sov Gerecht]]  
-- **Affiliated Factions:** [[ ]]  
+- **Notable Residents:** [[Sov Gerecht]]  , [[Talyss Vorlin]], 
+- **Affiliated Factions:** [[RoB Governance]]  
 - **Vibe**: Floating archipelagos of land, impossible geometry, and a constant hum of
 magical instability
 ## 🏙️ Description
@@ -89,7 +89,7 @@ part of another reality entirely.
     - _The Oath Gardens_ (park where pacts and contracts are ritually sealed)
 
 ## 🔗 Related Entries   
-- **Connected Characters:** [[Talyss Vorlin]],  [[Sov Gerecht]]
+- **Connected Characters:** 
 - **Important Items:** [[ ]]
 - **Story Arcs:** [[ ]]
 
