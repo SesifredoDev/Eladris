@@ -130,10 +130,13 @@ code {
 }
 
 /* ====== HEADER ====== */
-header {
+header  * {
   border-bottom: 2px solid #7c3aed;
   margin-bottom: 1.5rem;
   padding-bottom: 0.5rem;
+}
+header{
+  background-color: transparent;
 }
 
 /* ====== FOOTER ====== */

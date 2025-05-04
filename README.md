@@ -34,9 +34,11 @@ It is hard to say whether the resonance is due to the people using those abiliti
 
 ## Common Tongue
 
--          **Irslade** (pronounced ire-slayed):  The other world (note that in “irslade” they will not know this term, as this is a term invented by the people of your reality)
--          **Lost one:** A being that has either fallen to Irslade, or entered Eladris
--          **Treget**  : Some one who is a part of the Centreg
+- **Irslade** (pronounced ire-slayed):  The other world (note that in “irslade” they will not know this term, as this is a term invented by the people of your reality)
+
+- **Lost one:** A being that has either fallen to Irslade, or entered Eladris
+
+- **Treget**  : Some one who is a part of the Centreg
  
 ![[Eladrin 2025-04-24-22-24(3).jpeg]]
 ## 🌟 Key Locations
