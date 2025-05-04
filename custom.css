@@ -24,7 +24,7 @@ h1, h2, h3, h4 {
 h1 {
   font-size: 3rem;
   margin-bottom: 1rem;
-  border-bottom: 2px solid #a78bfa;
+  border-bottom: 2px solid #a78bfa ;
   padding-bottom: 0.5rem;
 }
 .text-primary-emphasis{
@@ -35,14 +35,14 @@ h2 {
   font-size: 2rem;
   margin-top: 2rem;
   margin-bottom: 0.75rem;
-  color: #d8b4fe;
+  color: #d8b4fe !important;
 }
 
 h3 {
   font-size: 1.25rem;
   margin-top: 1.5rem;
   margin-bottom: 0.5rem;
-  color: #c084fc;
+  color: #c084fc !important;
 }
 
 p {
@@ -53,7 +53,7 @@ p {
 
 /* ====== LINKS ====== */
 a {
-  color: #b794f4;
+  color: #dfcdff !important;
   text-decoration: underline dotted;
   transition: color 0.2s ease, text-shadow 0.2s ease;
 }
@@ -155,4 +155,29 @@ img {
 
 ::-webkit-scrollbar-track {
   background: #1e293b;
+}
+
+/* ====== UNORDERED LISTS ====== */
+ul {
+  list-style: none;
+  padding-left: 1.25rem;
+  margin: 1rem 0;
+}
+
+ul li {
+  position: relative;
+  padding-left: 1.75rem;
+  margin-bottom: 0.75rem;
+  font-size: 1.1rem;
+  color: #e5e7eb;
+  font-family: 'EB Garamond', serif;
+}
+
+ul li::before {
+  content: "✦";
+  position: absolute;
+  left: 0;
+  color: #a78bfa;
+  font-size: 1.2rem;
+  text-shadow: 0 0 6px #a855f7, 0 0 10px #6b21a8;
 }
