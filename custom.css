@@ -1,9 +1,11 @@
 /* ====== FANTASY DARK THEME: GLOBAL BASE ====== */
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=EB+Garamond&family=Cinzel+Decorative&display=swap');
-
+header{
+  display: none;
+}
 body {
   background: linear-gradient(145deg, #0f0c29, #302b63, #0b3d30);
-  color: #e0e8f0;
+  color: #e0e8f0 !important;
   font-family: 'EB Garamond', serif;
   line-height: 1.75;
   background-attachment: fixed;
@@ -24,6 +26,9 @@ h1 {
   margin-bottom: 1rem;
   border-bottom: 2px solid #a78bfa;
   padding-bottom: 0.5rem;
+}
+.text-primary-emphasis{
+  color: white;
 }
 
 h2 {
