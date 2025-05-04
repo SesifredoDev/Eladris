@@ -1,4 +1,7 @@
-### ![[Caldrith Vale.jpg]]📍 Basic Info
+ ![[Caldrith Vale.jpg]]
+
+
+## 📍 Basic Info
 
 - **Type:** Arcane Valley-City of Healing and Memory
     

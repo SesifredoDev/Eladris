@@ -34,7 +34,6 @@ Born on a tether platform during a wind surge, **Sorell Vintar** was practically
 
 After the **Skyship Uprising**, Sorell negotiated the fragile truce between the Reach’s independent guilds and the RoB Trade Fleet. Rather than retire, he was appointed **Skyship Marshal**, a new post created to bridge law enforcement, Riftwatch duties, and RoB Governance expectations.
 
-He is now the Reach’s most visible symbol of authority — and its fiercest protector. In story arcs, Sorell may be a reluctant ally, a contact who trades political favors for real-world risks, or a wild-card commander with his own plan for how to survive the next Rift breach.
 
 ---
 

@@ -38,8 +38,6 @@ Thariel Vos was born in the high libraries of pre-Sundering Arilia, and when the
 
 As Arch-Lexicon, she holds the highest authority over what truths are permitted to circulate through Begoestia’s academic, arcane, and legal systems. In practice, she has the power to seal books, sanction researchers, and direct containment protocols without Senate approval in moments of magical crisis.
 
-In a story, Vos might be a gatekeeper to high knowledge, an arbiter in a dangerous debate, or a source of buried truths that characters must risk unsealing. She may also be hiding deeper intentions — not malicious, but rooted in a philosophy where the **wrong truth** is more dangerous than any lie.
-
 ---
 
 ## 🔗 Relationships

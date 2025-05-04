@@ -1,4 +1,4 @@
-# 📍 Basic Info
+# # 📍 Basic Info
 
 - **Type:** Cliff-Hanging Skyship City
     
@@ -13,7 +13,7 @@
 
 ### 🏙️ Description
 
-**Tessavar Reach** is the wind-scoured frontier of Begoestia — a city strung like a net of steel and spell-thread across the shattered edge of a titanic Shard. It hangs over the **Glass Maw**, a bottomless rift where Resonance spirals so violently that sound warps, and sight often fails. The city’s architecture is equal parts miracle and madness: entire districts are suspended from cliff faces by enchanted anchors, levitating platforms drift freely on calibrated magic, and some neighborhoods must be re-stabilized weekly after atmospheric fluctuations.
+**Tessavar Reach** is the wind-scoured frontier of Begoestia — a city strung like a net of steel and spell-thread across the shattered edge of an ice cliff. It hangs over the **Glass Maw**, a bottomless rift where Resonance spirals so violently that sound warps, and sight often fails. The city’s architecture is equal parts miracle and madness: entire districts are suspended from cliff faces by enchanted anchors, levitating platforms drift freely on calibrated magic, and some neighborhoods must be re-stabilized weekly after atmospheric fluctuations.
 
 Known as the “Reach of No Return” to outsiders, Tessavar is a haven for **skyship pilots**, shard-divers, storm-traders, and spellwright engineers who thrive on chaos and cliff-edge living. The air is alive with motion — ships gliding in and out of cloud-split bays, cargo skiffs racing windriders, and suspension lifts ferrying travelers from sector to sector, all dancing to the silent rhythm of Resonant winds.
 

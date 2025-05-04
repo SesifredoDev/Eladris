@@ -1,0 +1,53 @@
+{
+  "path": ".smart-env/smart_threads/Untitled 1746400565048.json",
+  "last_embed": {
+    "hash": null
+  },
+  "embeddings": {},
+  "last_read": {
+    "hash": null,
+    "mtime": 0
+  },
+  "created_at": 1746400565048,
+  "responses": {},
+  "messages": {
+    "user-1-1746400638094-1": 1
+  },
+  "branches": {},
+  "class_name": "SmartThread2",
+  "key": "Untitled 1746400565048",
+  "blocks": [
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1746400565048",
+      "content": [
+        {
+          "type": "text",
+          "text": "summarise the Republic of Begoestia for me"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 1,
+      "id": "user-1-1746400638094-1",
+      "context": {
+        "has_self_ref": true
+      },
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1746400638094-1",
+      "key": "Untitled 1746400565048#user-1-1746400638094-1"
+    }
+  ]
+}

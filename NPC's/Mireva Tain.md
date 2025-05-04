@@ -37,7 +37,6 @@ Mireva was born in the Mirror District to a family of mirror-crafters, and from 
 
 Now the Director of the Academy, Mireva is both a political and arcane force in Velquora. She’s beloved by younger illusionists for championing progressive theory, and quietly feared by those who question the ethical implications of her work. While her experiments have made astonishing breakthroughs—such as phase-stable illusions and memory-rewriting constructs—there is growing concern that her ambitions may one day breach the planar veils in ways that cannot be undone.
 
-In a story, Mireva serves as a powerful ally or antagonist depending on whether the characters seek to preserve Velquora’s current balance or push its boundaries. She offers knowledge and resources, but her vision always comes at a cost.
 
 ## 🔗 Relationships
 

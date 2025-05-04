@@ -36,7 +36,7 @@ Lyri was born in a minor shard-fracture enclave and raised by a former Veilbinde
 
 Under **Mother Revael’s** guidance, she grew rapidly, completing the Rite of Threading years earlier than most. Yet her visions, her affinity with the Living Threads, and her bold convictions placed her at odds with the more conservative elders.
 
-Now, Lyri is often sent on long-range journeys to distant Shards — not only to act as a field emissary, but to keep her from destabilizing the Sanctuary’s delicate balance. In the story, she could serve as a mentor to PCs, a rebel voice in the heart of a rigid system, or the spark that ignites the next philosophical war over what the Veilbinders should truly be.
+Now, Lyri is often sent on long-range journeys to distant Shards — not only to act as a field emissary, but to keep her from destabilizing the Sanctuary’s delicate balance.
 
 ---
 
