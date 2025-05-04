@@ -131,7 +131,7 @@ code {
 
 
 header{
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 /* ====== FOOTER ====== */
