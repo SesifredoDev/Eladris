@@ -132,8 +132,11 @@ code {
 
 header{
   background-color: transparent !important;
+  display: block !important;
 }
-
+header img{
+  display: none;
+}
 /* ====== FOOTER ====== */
 footer {
   text-align: center;
