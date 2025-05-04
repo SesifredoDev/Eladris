@@ -135,7 +135,7 @@ header{
   display: block !important;
 }
 .bg-background{
-  background-color: none !important;
+  background-color: transparent !important;
 }
 header img{
   display: none;
