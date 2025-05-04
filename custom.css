@@ -136,6 +136,7 @@ header{
 }
 .bg-background{
   background-color: transparent !important;
+  --tw-bg-opacity: 0  !important;
 }
 header img{
   display: none;
