@@ -4,13 +4,33 @@ header{
   display: none;
 }
 body {
-  background: linear-gradient(145deg, #0f0c29, #211e43, #07261e);
-  color: #e0e8f0 !important;
+  margin: 0;
   font-family: 'EB Garamond', serif !important;
   line-height: 1.75;
+  color: #e0e8f0 !important;
+  background: linear-gradient(-45deg, #0f0c29, #211e43, #07261e, #0f0c29);
+  background-size: 400% 400%;
   background-attachment: fixed;
-  background-size: cover;
-  margin: 0;
+  animation: gradientShift 120s ease infinite;
+}
+
+/* Fallback for older browsers */
+@supports not (animation: gradientShift 120s ease infinite) {
+  body {
+    background: #0f0c29; /* Static fallback color */
+  }
+}
+
+@keyframes gradientShift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
 }
 
 /* ====== TYPOGRAPHY ====== */
@@ -234,4 +254,61 @@ footer{
 .blockquote:hover {
   background: linear-gradient(145deg, #222435, #1b1d27);
   box-shadow: 0 0 14px rgba(139, 92, 246, 0.5), inset 0 0 8px rgba(139, 92, 246, 0.3);
+}
+
+
+/* ====== ANIMATIONS ====== */
+
+/* Fade in with slight upward motion */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Slow glowing pulse */
+@keyframes glowPulse {
+  0%, 100% {
+    text-shadow: 0 0 6px #c084fc, 0 0 12px #a855f7;
+  }
+  50% {
+    text-shadow: 0 0 10px #d8b4fe, 0 0 20px #a78bfa;
+  }
+}
+
+/* Subtle float */
+@keyframes floaty {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+}
+
+/* Apply animations to existing tags */
+h1, h2, h3, h4 {
+  animation: fadeInUp 1.2s ease both;
+}
+
+p, blockquote, .blockquote, ul li {
+  animation: fadeInUp 1.4s ease both;
+}
+
+a:hover {
+  animation: glowPulse 2s ease-in-out infinite;
+}
+
+img {
+  animation: floaty 6s ease-in-out infinite;
+}
+
+/* Keep navbar and footer static but cleanly appearing */
+.navbar, footer {
+  animation: fadeInUp 1.5s ease both;
 }
