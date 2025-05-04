@@ -6,7 +6,7 @@ header{
 body {
   background: linear-gradient(145deg, #0f0c29, #211e43, #07261e);
   color: #e0e8f0 !important;
-  font-family: 'EB Garamond', serif;
+  font-family: 'EB Garamond', serif !important;
   line-height: 1.75;
   background-attachment: fixed;
   background-size: cover;
@@ -63,7 +63,7 @@ a:hover {
   text-shadow: 0 0 5px #f0abfc, 0 0 10px #d946ef;
 }
 strong{
-  color: white;
+  color: white  !important;
   text-decoration: wavy;
 }
 
