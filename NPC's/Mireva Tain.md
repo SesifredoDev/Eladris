@@ -7,6 +7,8 @@ Aliasses:
 Origin / Found: 
 Relationship w/  Group:
 ---
+![[Mireva.jpg]]
+Credit:  https://www.artstation.com/laurelin
 ## 🏛️ Basic Info
 
 - **Role:** Arch-Illusionist, Director of the Ethereal Academy
