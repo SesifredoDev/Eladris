@@ -62,6 +62,10 @@ a:hover {
   color: #f0abfc;
   text-shadow: 0 0 5px #f0abfc, 0 0 10px #d946ef;
 }
+strong{
+  color: white;
+  text-decoration: wavy;
+}
 
 /* ====== GLOW CLASS ====== */
 .glow {
@@ -160,6 +164,7 @@ img {
 /* ====== UNORDERED LISTS ====== */
 ul {
   list-style: none;
+  list-style-type: none;
   padding-left: 1.25rem;
   margin: 1rem 0;
 }
@@ -171,6 +176,7 @@ ul li {
   font-size: 1.1rem;
   color: #e5e7eb;
   font-family: 'EB Garamond', serif;
+  padding-left: auto;
 }
 
 ul li::before {
