@@ -28,6 +28,7 @@ Yet behind the beauty and brilliance lies a warning: the Resonance that empowers
 	- Rebuilding and becoming a Republic
 - **Current Status:** Prosperous
 
+
 ## 🌟 Key Locations
 - [[Ceal'Tharryn]] - Capital; floating archipelago city crowned by the Shardspire.
   
@@ -41,7 +42,7 @@ Yet behind the beauty and brilliance lies a warning: the Resonance that empowers
     
 - **[[Nauvein]]** — A city atop a single colossal Resonant crystal, which hums audibly. All structures are built in latticework around it.
     
-- **[[Druvenhal]]** — The "Scholar's Bastion"; fortified city-library where magical knowledge is archived and fiercely protected.
+- **[[Druvenhal]]** — The "Scholar's Bastion"; fortified city-library where magical knowledge is archived and fiercely protected.  They are not so welcoming to outsiders, noting their history
 
 ## 🔗 Related Entries
 - **Connected Characters:** -

@@ -7,8 +7,18 @@
     
 - **Headquarters:** Hidden within a disused wing beneath the [[Obsidian Archives]]
     
-- **Notable Members:** [[Kein Saldo]]
+- **Notable Members:**
     
+    - [[Kein Saldo]] – Founding member and philosophical guide.
+        
+    - **Velesi Orundra** – An illusionary cryptographer specializing in encoding memories into spatial illusions; rarely speaks aloud, preferring ambient illusion to communicate.
+        
+    - **Brother Cahl** – A former monk turned planar linguist who transcribes echoes from unstable dimensions using a self-devised grammar. Widely respected, mildly unsettling.
+        
+    - **Natharyn Sol** – A scholar who uses chronologically stabilized illusion fields to model alternate outcomes. Known for being emotionally distant but fiercely protective of Velquora’s metaphysical integrity.
+        
+    - **Iriel Fenlocke** – A cartographer of unreal spaces; maintains a vast hidden chamber filled with evolving maps that update based on the shifting planar strata.
+        
 - **Allies/Rivals:**
     
     - _Allies:_ Select researchers within the Obsidian Archives, planar-sensitive illusionists

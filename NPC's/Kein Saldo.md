@@ -7,8 +7,8 @@ Aliasses:
 Origin / Found: 
 Relationship w/  Group:
 ---
-# Kein Saldo
-
+![[Kein Saldo.jpg]]
+Credit: https://www.artstation.com/art2d
 ## 🏛️ Basic Info
 
 - **Role:** Noble & Sage
@@ -47,11 +47,7 @@ In the broader narrative, Kein serves as a guide and moral compass. He rarely gi
     
     - [[Mireva Tain]] – Former apprentice turned rival, now a leading figure in the Ethereal Academy pushing for aggressive planar experimentation.
         
-    - [[Tullis Vare]] – A historian in the Obsidian Archives who often collaborates with Kein to unravel illusion-altered timelines.
         
-- **Enemies/Rivals:**
-    
-    - [[The Unseen Accord]] (now fractured) – Some former allies turned radicals who believe in erasing historical trauma through illusion.
         
 - **Factions:**
     

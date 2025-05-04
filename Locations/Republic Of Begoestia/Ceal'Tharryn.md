@@ -88,9 +88,4 @@ part of another reality entirely.
     - _The Vault of Silent Songs_ (crypts and relic storage)
     - _The Oath Gardens_ (park where pacts and contracts are ritually sealed)
 
-## 🔗 Related Entries   
-- **Connected Characters:** 
-- **Important Items:** [[ ]]
-- **Story Arcs:** [[ ]]
-
 ## 🗺️  Map

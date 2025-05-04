@@ -10,14 +10,11 @@ Relationship w/  Group:
 ## 🏛️ Basic Info
 - **Type:** Leading Group of the Republic of Begoestia
 - **Headquarters:** [[Ceal'Tharryn]]  
-- **Notable Members:** [[Talyss Vorlin]],  [[Kein Saldo]]  
+- **Notable Members:** [[Talyss Vorlin]],  [[Kein Saldo]] ,  [[Nelyra Ves]], [[Captain Sorell Vintar]],  [[Arch-Lexicon Thariel Vos]]
 - **Allies/Rivals:** [[ ]]  
 
 ## 📖 History
-- **Founding Story:**  
-- 
-- **Major Conflicts/Involvements:**  
-- **Current Status:**  
+- **Founding Story:**  [[Begoestia's Rulers]]
 
 ## 🔗 Related Topics
 - **Leaders:** [[Talyss Vorlin]]

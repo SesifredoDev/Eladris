@@ -1,12 +1,3 @@
----
-Name: 
-tags:
-  - character
-  - npc
-Aliasses: 
-Origin / Found: 
-Relationship w/  Group:
----
 ![[Mireva.jpg]]
 Credit:  https://www.artstation.com/laurelin
 ## 🏛️ Basic Info
