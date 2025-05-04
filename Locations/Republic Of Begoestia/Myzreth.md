@@ -1,7 +1,7 @@
-### ![[Myzreth.jpg]]
+![[Myzreth.jpg]]
 credit: https://www.artstation.com/dellaannabel
 
-# 📍 Basic Info
+## 📍 Basic Info
 
 - **Type:** Industrial Arcane City
     

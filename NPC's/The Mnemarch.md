@@ -1,7 +1,7 @@
 ![[Mnemarch.jpg]]
 credit:  https://www.artstation.com/steftastan
 
-# 🏛️ Basic Info
+## 🏛️ Basic Info
 
 - **Role:** Keeper of Memory, Arcane Custodian of Caldrith Vale
 - **Race:** Human (Resonance-Altered)

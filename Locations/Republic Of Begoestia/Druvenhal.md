@@ -1,6 +1,8 @@
+
+
 ![[Druvenhal.jpg]]
 
-# 📍 Basic Info
+## 📍 Basic Info
 
 - **Type:** Fortified City-Archive
     
