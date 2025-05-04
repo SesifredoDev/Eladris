@@ -1,12 +1,14 @@
-/* ====== GLOBAL BASE ====== */
+/* ====== FANTASY DARK THEME: GLOBAL BASE ====== */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=EB+Garamond&family=Cinzel+Decorative&display=swap');
+
 body {
-  background-color: #fdf6e3;
-  color: #1a202c;
+  background: linear-gradient(145deg, #0f0c29, #302b63, #0b3d30);
+  color: #e0e8f0;
   font-family: 'EB Garamond', serif;
   line-height: 1.75;
-  background-image: url('/images/parchment-bg.jpg');
-  background-size: cover;
   background-attachment: fixed;
+  background-size: cover;
+  margin: 0;
 }
 
 /* ====== TYPOGRAPHY ====== */
@@ -14,13 +16,13 @@ h1, h2, h3, h4 {
   font-family: 'Cinzel', serif;
   font-weight: bold;
   letter-spacing: 0.05em;
-  color: #1f2937;
+  color: #e9d8fd;
 }
 
 h1 {
   font-size: 3rem;
   margin-bottom: 1rem;
-  border-bottom: 2px solid #8b5cf6;
+  border-bottom: 2px solid #a78bfa;
   padding-bottom: 0.5rem;
 }
 
@@ -28,85 +30,92 @@ h2 {
   font-size: 2rem;
   margin-top: 2rem;
   margin-bottom: 0.75rem;
-  color: #6b21a8;
+  color: #d8b4fe;
 }
 
 h3 {
   font-size: 1.25rem;
   margin-top: 1.5rem;
   margin-bottom: 0.5rem;
-  color: #4c1d95;
+  color: #c084fc;
 }
 
 p {
   margin: 1rem 0;
   font-size: 1.125rem;
+  color: #e0e8f0;
 }
 
 /* ====== LINKS ====== */
 a {
-  color: #7c3aed;
+  color: #b794f4;
   text-decoration: underline dotted;
-  transition: color 0.2s ease;
+  transition: color 0.2s ease, text-shadow 0.2s ease;
 }
 
 a:hover {
-  color: #c084fc;
-  text-shadow: 0 0 5px #c084fc, 0 0 10px #a855f7;
+  color: #f0abfc;
+  text-shadow: 0 0 5px #f0abfc, 0 0 10px #d946ef;
 }
 
 /* ====== GLOW CLASS ====== */
 .glow {
-  text-shadow: 0 0 5px #c084fc, 0 0 10px #a855f7;
+  text-shadow: 0 0 6px #c084fc, 0 0 12px #a855f7;
 }
 
 /* ====== FANCY BORDER CLASS ====== */
 .fancy-border {
-  border: 2px solid #8b5cf6;
+  border: 2px solid #a855f7;
   border-radius: 12px;
-  box-shadow: 0 0 10px rgba(139, 92, 246, 0.5);
+  box-shadow: 0 0 15px rgba(168, 85, 247, 0.5);
+  padding: 1rem;
+  background-color: rgba(32, 23, 60, 0.8);
 }
 
 /* ====== BLOCKQUOTES & CODE ====== */
 blockquote {
   padding-left: 1rem;
-  border-left: 4px solid #7e22ce;
+  border-left: 4px solid #9333ea;
   font-style: italic;
-  background-color: rgba(216, 180, 254, 0.3);
+  background-color: rgba(147, 51, 234, 0.15);
   border-radius: 0.375rem;
   margin: 1.5rem 0;
+  color: #ddd6fe;
 }
 
 code {
-  background-color: #e5e7eb;
-  padding: 0 0.25rem;
+  background-color: #1f2937;
+  color: #fcd34d;
+  padding: 0.25rem 0.5rem;
   border-radius: 0.25rem;
-  font-size: 0.875rem;
+  font-size: 0.9rem;
   font-family: monospace;
 }
 
 /* ====== TAGS ====== */
 .tag {
   display: inline-block;
-  padding: 0.25rem 0.75rem;
-  font-size: 0.875rem;
+  padding: 0.3rem 0.75rem;
+  font-size: 0.85rem;
   border-radius: 9999px;
-  background-color: #d8b4fe;
-  color: #4c1d95;
+  background-color: #581c87;
+  color: #e9d8fd;
   font-family: 'Cinzel Decorative', cursive;
+  box-shadow: 0 0 6px rgba(139, 92, 246, 0.5);
 }
 
 /* ====== NAVBAR ====== */
 .navbar {
-  background-color: #ede0d4;
-  color: #1f2937;
+  background: #1a1c2c;
+  color: #dcd9f9;
   font-family: 'Cinzel Decorative', cursive;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  padding: 1rem;
 }
 
 /* ====== HEADER ====== */
 header {
-  border-bottom: 2px solid #a78bfa;
+  border-bottom: 2px solid #7c3aed;
   margin-bottom: 1.5rem;
   padding-bottom: 0.5rem;
 }
@@ -117,15 +126,16 @@ footer {
   margin-top: 3rem;
   padding: 1rem 0;
   font-size: 0.875rem;
-  color: #4b5563;
-  border-top: 1px solid #d1d5db;
+  color: #9ca3af;
+  border-top: 1px solid #4b5563;
+  background-color: #1a1c2c;
 }
 
 /* ====== IMAGES ====== */
 img {
   border-radius: 0.5rem;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-  border: 2px solid #8b5cf6;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+  border: 2px solid #6d28d9;
 }
 
 /* ====== SCROLLBAR ====== */
@@ -134,14 +144,10 @@ img {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #8b5cf6;
+  background: #7e22ce;
   border-radius: 4px;
 }
 
 ::-webkit-scrollbar-track {
-  background: #e9d8fd;
+  background: #1e293b;
 }
-
-/* ====== FANTASY FONTS ====== */
-@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=EB+Garamond&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
