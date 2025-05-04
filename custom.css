@@ -137,6 +137,9 @@ header{
 header img{
   display: none;
 }
+header *{
+  background-color: transparent !important;
+}
 /* ====== FOOTER ====== */
 footer {
   text-align: center;
