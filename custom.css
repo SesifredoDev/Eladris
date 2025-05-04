@@ -205,3 +205,22 @@ footer{
 .z-100{
   display: none !important;
 }
+
+/* ====== BLOCKQUOTE ====== */
+.blockquote {
+  margin: 1.5rem 0;
+  padding: 1.25rem 1.5rem;
+  background: linear-gradient(145deg, #1a1c2b, #111217);
+  border-left: 4px solid #8b5cf6;
+  border-radius: 0.75rem;
+  color: #dcdce2;
+  font-style: italic;
+  font-family: 'EB Garamond', serif;
+  box-shadow: 0 0 10px rgba(139, 92, 246, 0.3), inset 0 0 6px rgba(139, 92, 246, 0.2);
+  transition: background 0.3s ease, box-shadow 0.3s ease;
+}
+
+.blockquote:hover {
+  background: linear-gradient(145deg, #222435, #1b1d27);
+  box-shadow: 0 0 14px rgba(139, 92, 246, 0.5), inset 0 0 8px rgba(139, 92, 246, 0.3);
+}
