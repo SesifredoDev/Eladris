@@ -187,6 +187,24 @@ img {
     margin-top: auto;
     margin-bottom: auto;
   object-fit: contain;
+  animation: scrollin cubic-bezier(0.23, -0.26, 0.78, 1.29) both,
+  fade-out linear both;
+animation-timeline: view();
+animation-range: 1vh 50vh, exit -10px;
+transform-origin: left;
+}
+
+@keyframes scrollin {
+  from {
+    scale: 0.3;
+    opacity: 0;
+    left: -25vh;
+  }
+  to {
+    opacity: 1;
+    scale: 1;
+    left: 0;
+  }
 }
 
 /* ====== SCROLLBAR ====== */
