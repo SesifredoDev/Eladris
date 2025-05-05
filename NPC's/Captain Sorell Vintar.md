@@ -1,3 +1,5 @@
+![[Captain Sorell Vintar.jpg]]
+credit: https://www.artstation.com/christinakritikou
 ## 🏛️ Basic Info
 
 - **Role:** Skyship Marshal of Tessavar Reach, RoB Governance Representative (Aerial Trade & Rift-Edge Security)

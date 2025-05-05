@@ -1,4 +1,7 @@
-## 🏛️ Basic Info
+
+![[Alkharin the Frayed.jpg]]
+credit:  https://www.artstation.com/savannahrickert
+## 🏛️Basic Info
 
 - **Role:** Planar Philosopher, Master Theorist of [[The Veilbinders]]
 - **Race:** Elf (Fragmented Soulstate)
