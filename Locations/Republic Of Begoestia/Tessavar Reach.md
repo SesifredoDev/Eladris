@@ -1,4 +1,4 @@
-# # 📍 Basic Info
+## 📍 Basic Info
 
 - **Type:** Cliff-Hanging Skyship City
     

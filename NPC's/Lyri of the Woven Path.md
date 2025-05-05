@@ -1,6 +1,6 @@
 ![[Lyri.jpg]]
 credit: https://www.artstation.com/artwork/ykyVVR
-# 🏛️ Basic Info
+## 🏛️ Basic Info
 
 - **Role:** Veilbinder Seeker, Apprentice to Mother Revael, Keeper of Living Threads
 - **Race:** Half-Elf
