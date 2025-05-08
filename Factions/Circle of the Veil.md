@@ -38,8 +38,9 @@
     - Discreetly sabotaged a planar engine prototype developed at the Academy that risked opening a sustained rift to a dream-tethered dimension.
         
 - **Current Status:**  
-    Active and cautious. The Circle operates in shadows and footnotes, sharing knowledge through metaphor-laden scrolls and encoded illusions. It neither recruits nor expands quickly, preferring to trust only those who “see past the shimmer.”
-    
+    Active and cautious. The Circle operates in shadows and footnotes, sharing knowledge through metaphor-laden scrolls and encoded illusions. It neither recruits nor expands quickly,0 .
+    preferring to trust only those who “see past the shimmer.”
+   321 
 
 ## 🔗 Related Topics
 
