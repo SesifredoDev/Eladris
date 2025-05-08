@@ -323,7 +323,12 @@ a:hover {
 }
 
 img {
+  
+  transition-duration: 2s;
   animation: floaty 6s ease-in-out infinite;
+}
+img:hover{
+  transform:scale(2.5);
 }
 
 /* Keep navbar and footer static but cleanly appearing */

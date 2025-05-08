@@ -6,6 +6,7 @@ tags:
 ---
 ![[9499d954fb36bcc26b1d3f335ea801bf-2785060804.jpg]]
 ## 📍 Basic Info 
+[Fairytale on Spotify](https://open.spotify.com/track/2rzWSywjwzbysCmdOzssFR)
 - **Type:** City
 - **Region:** [[Republic of Begoestia]]  
 - **Notable Residents:** [[Sov Gerecht]]  , [[Talyss Vorlin]], 
