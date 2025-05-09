@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC's/Serith of the Folded Voice.md",
+                "file": "NPC's/Captain Sorell Vintar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Serith of the Folded Voice"
+              "title": "Captain Sorell Vintar"
             }
           }
         ]
@@ -167,11 +167,11 @@
   },
   "active": "675845990a51a696",
   "lastOpenFiles": [
-    "Lore & Mythology/The Unison.md",
+    "Factions/The Cult of the Final Frequency.md",
     "NPC's/Serith of the Folded Voice.md",
+    "Lore & Mythology/The Unison.md",
     "NPC's/The Cantor.md",
     "Locations/UnFixed/The Spiral Choir.md",
-    "Factions/The Cult of the Final Frequency.md",
     "README.md",
     "Factions/The Council of Echoes.md",
     "Thariel Vos.md",

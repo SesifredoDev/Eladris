@@ -43,9 +43,9 @@ After the **Skyship Uprising**, Sorell negotiated the fragile truce between the 
 
 - **Connected Characters:**
     
-    - **Talyss Vorlin** – Respects her political acumen, but considers her too far removed from the frontier
+    - **[[Talyss Vorlin]]** – Respects her political acumen, but considers her too far removed from the frontier
         
-    - **High Curate Nelyra Ves** – Once sought her help after returning from the Rift; they share an unspoken history
+    - **High Curate [[Nelyra Ves]]** – Once sought her help after returning from the Rift; they share an unspoken history
         
 - **Enemies/Rivals:**
     

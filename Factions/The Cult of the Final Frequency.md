@@ -80,7 +80,7 @@ The supposed head of the cult. Possibly immortal, fragmented, or non-corporeal. 
     
 - **With the [[Republic of Begoestia]]:** Labeled a metaphysical terror faction. Active containment operations exist in [[Druvenhal]] and [[Tessavar Reach]].
     
-- **With the [[Council of Echoes]]:** Contentious. Some Council fragments act as informants; others attempt to subsume the Cult's purpose into deeper contradictions.
+- **With [[The Council of Echoes]]:** Contentious. Some Council fragments act as informants; others attempt to subsume the Cult's purpose into deeper contradictions.
     
 
 Despite persecution, the Cult draws followers from Echo survivors, disillusioned scholars, failed initiates, and Shardborn idealists. Their rhetoric promises _freedom through resonance,_ _meaning through dissolution,_ and _oneness through collapse._
