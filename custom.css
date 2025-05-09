@@ -327,11 +327,6 @@ img {
   transition-duration: 2s;
   
 }
-img:hover{
-  animation: none;
-  transform:scale(2.5);
-}
-
 /* Keep navbar and footer static but cleanly appearing */
 .navbar, footer {
   animation: fadeInUp 1.5s ease both;
