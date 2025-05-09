@@ -75,4 +75,4 @@
     
 - **Locations:** [[The Spiral Choir]], [[The Hollow Tone]], [[Vault of Refracted Selves]]
     
-- **Concepts:** [[Final Frequency]], [[Echo Folding]], [[Unison]]
+- **Concepts:** [[Final Frequency]], [[Echo Folding]], [[The Unison]]

@@ -76,7 +76,7 @@ The supposed head of the cult. Possibly immortal, fragmented, or non-corporeal. 
 
 ## 🌐 Interaction with the Wider World
 
-- **With the [[Veilbinders]]:** Mortal enemies. The Cult sees them as tyrants who prevent transcendence.
+- **With [[The Veilbinders]]:** Mortal enemies. The Cult sees them as tyrants who prevent transcendence.
     
 - **With the [[Republic of Begoestia]]:** Labeled a metaphysical terror faction. Active containment operations exist in [[Druvenhal]] and [[Tessavar Reach]].
     
@@ -93,6 +93,5 @@ Despite persecution, the Cult draws followers from Echo survivors, disillusioned
     
 - **Locations:** [[The Spiral Choir]], [[The Breathing Crypt]], [[The Hollow Tone]]
     
-- **Factions:** [[The Veilbinders]], [[The Council of Echoes]], [[Shardborn]], [[RoB Governance]]
+- **Factions:** [[The Veilbinders]], [[The Council of Echoes]], [[The Shardborn]], [[RoB Governance]]
     
-- **Artifacts & Concepts:** [[Final Frequency]], [[Dissonant Chant]], [[Unmaking Chord]], [[Vessels of Collapse]]

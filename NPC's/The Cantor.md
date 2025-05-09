@@ -85,4 +85,4 @@
     
 - **Locations:** [[The Spiral Choir]], [[The Hollow Tone]]
     
-- **Concepts:** [[Final Frequency]], [[Vessel of Collapse]], [[Echo Folding]], [[Unison]]
+- **Concepts:** [[Final Frequency]], [[Vessel of Collapse]], [[Echo Folding]], [[The Unison]]

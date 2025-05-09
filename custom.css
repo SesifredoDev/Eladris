@@ -328,10 +328,7 @@ img {
   
 }
 img:hover{
-  justify-content: center;
-  align-items: center;
-  display:flex;
-  padding-top:20%;
+  animation: none;
   transform:scale(2.5);
 }
 

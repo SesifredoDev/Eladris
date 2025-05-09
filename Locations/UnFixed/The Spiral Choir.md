@@ -44,7 +44,7 @@
     
 - **The Dissonant Choir-Halls:** Where the Cult gathers to chant; acolytes chant not in unison, but in guided chaos, each seeking to shape the Tone toward collapse.
     
-- **Vault of Refracted Selves:** A chamber of mirrors and memories. Used to unbind identity and prepare members for their role as [[Frequencies]] or [[Vessels of Collapse]].
+- **Vault of Refracted Selves:** A chamber of mirrors and memories. Used to unbind identity and prepare members for their role as Frequencies  or [[Vessels of Collapse]].
     
 - **The Ravel Halls:** Private meditation and exposure chambers filled with Veil-thin echoes. Frequently used for ritual “Baptisms.”
     
