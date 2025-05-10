@@ -1,52 +1,94 @@
 ## 🏛️ Basic Info
 
-- **Type:** Arcane-Military Order / Knowledge Protection Force
+- **Type:** Arcane-Militant Enforcement Arm
     
-- **Purpose/Mission:**  
-    To safeguard the archives of **Druvenhal**, enforce magical containment protocols, and defend against threats posed by Echo-corrupted texts, memory anomalies, and misuse of Resonant knowledge. The Inkguard are both guardians of lore and soldiers of silence — tasked with protecting truth not only from invaders, but from misuse, misinterpretation, and entropy itself.
+- **Purpose/Mission:** To enforce the will of the [[Archivist Ascendancy]] and protect Eladris from destabilizing truths, Echo incursions, and forbidden knowledge breaches. They are not soldiers — they are **truth-executioners**.
     
-- **Headquarters:** [[Athenaeum Citadel]],  Druvenhal
+- **Headquarters:** Operate throughout [[Druvenhal]] and other key containment sites across Begoestia
     
-- **Notable Members:** [[Warden Hespel Kree]]
+- **Notable Members:** [[Warden Hespel Kree]] (Commandant), Inkscribe Marvaen, Silent Edict Ieshra
     
 - **Allies/Rivals:**
     
-    - _Allies:_ [[RoB Governance]] (Judicial Arm), select Veilbinder operatives
+    - _Allies:_ [[Archivist Ascendancy]], certain Veilbinder Reconclaves
         
-    - _Rivals:_ Rogue arcanists, unauthorized memory-forgers, Whisper-Mongers, certain anti-containment radical scholars
+    - _Rivals:_ [[The Cult of the Final Frequency]], rogue Echo-scribes, unlicensed Truthseers
         
 
 ---
 
-## 📖 History
+## ⚔️ Identity & Role
 
-- **Founding Story:**  
-    Formed alongside the original construction of Druvenhal, the Inkguard began as a cadre of armed scribes and ex-battle-mages who recognized the danger of uncatalogued Resonant magic. As reality frayed and timelines folded, they adopted a creed: "Knowledge is to be kept, not unleashed." Over time, they evolved into a highly trained martial order that blends spellcraft, sigil-bound armor, and mental discipline.
+The Inkguard serve as the **enforcing hand of epistemic control**. When knowledge breaches containment, when cities echo themselves, when memory-tampering artifacts go rogue — the Inkguard are deployed.
+
+Each Inkguard is not merely trained in battle but also in **resonant logic**, **arcane erasure**, and **memory-stabilization warfare**. Their actions are sanctioned only when the threat of destabilized reality outweighs the cost of suppression.
+
+Their motto is: "We do not protect lives. We protect continuity."
+
+---
+
+## 🧵 Uniform & Marks
+
+- **Inkskin Sigils:** Each Inkguard has phrases or runes scribed into their skin via ink-rune grafting. These marks serve as mnemonic wards, emergency counter-rituals, or memory-seals in the event of Echo exposure.
     
-- **Major Conflicts/Involvements:**
+- **Armor:** Blacksteel and vellum-laced laminar, layered with mirror-inscribed plates. Reflections help detect identity bleed or phasic distortion.
     
-    - **The Binding of the Inkwound** – Inkguard units secured the rift perimeter and executed emergency purge rites on Echo-infected scrolls.
-        
-    - **The Breach of Reflection** – Responded to a sudden temporal recursion in the Redscript Chamber; six Inkguard were lost to mirrored time loops.
-        
-    - Maintain a quiet war of containment against Whisper-Mongers — black-market agents who steal and sell forbidden Resonant truths.
-        
-- **Current Status:**  
-    Active and ever-vigilant. The Inkguard are widely respected within Begoestia’s intellectual and legal circles, though feared by radical scholars and some civil libertarians. They operate under strict silence protocols and undergo regular mind-clarity trials to ensure incorruptibility.
+- **Weapons:** Specialized items include [[Sigilbrand Seals]], silence-bolts, mnemonic daggers, and resonance-cancelling blades known as "Echo Shears."
     
+
+---
+
+## 🧠 Structure
+
+- **Warden:** Commands a regional Inkguard order. Currently, Warden Hespel Kree oversees Druvenhal’s outer seal zone.
+    
+- **Silent Edicts:** Elite operatives sent to silence rogue knowledge or close Echo loops with precision. Often work alone.
+    
+- **Truthbinders:** Field commanders responsible for interpreting Ascendancy orders in chaotic conditions.
+    
+- **Pale Scribes:** Initiates undergoing mnemonic training. Rarely deployed without a handler.
+    
+
+---
+
+## 🛠️ Duties
+
+- Contain or eliminate Echo-creatures and identity fractures
+    
+- Enforce suppression orders issued by the Ascendancy
+    
+- Assist in Veil-sealing during major destabilization events
+    
+- Secure, transport, and guard forbidden texts and memory-objects
+    
+
+---
+
+## 🕰️ Notable Incidents
+
+- **The Kythal Memory Breach:** A Pale Scribe repeated the same moment for nine days before the Inkguard sealed the zone in a mirrored stasis vault.
+    
+- **The Red Choir Incident:** A cult-inspired dissonance wave caused 42 archivists to begin singing their own obituaries. Only one survived.
+    
+- **Vos's Silent Accord:** A protocol authored by [[Arch-Lexicon Thariel Vos]] granting full lethal autonomy to the Inkguard under Council Fragment threat.
+    
+
+---
+
+## 🌐 Reputation
+
+The Inkguard are **feared**, even among allies. They appear when **truth becomes dangerous**, and leave behind **silence**. Some call them necessary monsters — others, the only thing standing between Eladris and a complete echo-collapse.
+
+Despite their terrifying mandate, many Inkguard are deeply principled. They view their duty as **sacrificial**: protecting minds by becoming something less than whole themselves.
 
 ---
 
 ## 🔗 Related Topics
 
-- **Leaders:** [[Warden Hespel Kree]]
+- **Characters:** [[Warden Hespel Kree]], [[Arch-Lexicon Thariel Vos]]
     
-- **Key Locations:** [[Athenaeum Citadel]], [[The Inkwound Edge]], Redscript Chamber
+- **Locations:** [[Druvenhal]], Mirror Vaults, Pale Crypts
     
-- **Artifacts:**
+- **Artifacts:** [[Sigilbrand Seals]], Echo Shears, Pale Ledger
     
-    - _Sigilbrand Seals_ – Metallic stamps that brand encoded runes into dangerous texts, nullifying them until unbound by the Order.
-        
-    - _Chain of Retained Thought_ – A symbolic weapon and mnemonic focus worn by captains; helps anchor reality and thought during Echo breach containment.
-        
-    - _Shroud-Helms_ – Custom armor visors that filter dangerous visual sigils or recursive glyphs, allowing safe entry into unstable archives.
+- **Factions:** [[Archivist Ascendancy]], [[The Veilbinders]], [[The Cult of the Final Frequency]]

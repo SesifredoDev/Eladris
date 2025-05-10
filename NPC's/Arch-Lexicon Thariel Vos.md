@@ -1,6 +1,6 @@
 ## 🏛️ Basic Info
 
-- **Role:** Supreme Lorekeeper of Druvenhal, Head of the Archivist Ascendancy
+- **Role:** Supreme Lorekeeper of Druvenhal, Head of the [[Archivist Ascendancy]]
     
 - **Race:** high-Elf
     

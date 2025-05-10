@@ -6,7 +6,7 @@
     
 - **Age:** 57
     
-- **Affiliation:** [[Inkguard]], Republic of Begoestia (Judicial Arm)
+- **Affiliation:** [[The Inkguard]], Republic of Begoestia (Judicial Arm)
     
 - **Location:** [[Druvenhal]]
     
@@ -49,7 +49,7 @@ He was appointed Warden by unanimous consent — rare for a military-civil hybri
     
     - Whisper-Mongers and rogue archivists — especially former Inkguard turned information thieves.
         
-    - Some within the Archivist Ascendancy who believe his methods verge on authoritarianism.
+    - Some within the [[Archivist Ascendancy]] who believe his methods verge on authoritarianism.
         
 
 ---

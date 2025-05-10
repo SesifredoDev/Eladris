@@ -59,4 +59,4 @@
     
 - **Factions:** [[The Cult of the Final Frequency]]
     
-- **Artifacts:** [[Final Frequency]], [[Echo-Caged Hearts]], [[Mirror-Touched Veils]]
+- **Artifacts:** [[Echo-Caged Hearts]], [[Mirror-Touched Veils]]

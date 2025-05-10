@@ -52,7 +52,7 @@ In narrative terms, Revael may serve as a guide, a riddle-speaker, or a final te
         
 - **Enemies/Rivals:**
     
-    - Hunted by the [[Cult of the Final Frequency]], who see her as the "Last Knot" in the way of the Final Collapse
+    - Hunted by  [[The Cult of the Final Frequency]], who see her as the "Last Knot" in the way of the Final Collapse
         
 - **Factions:**
     

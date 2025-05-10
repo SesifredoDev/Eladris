@@ -76,6 +76,6 @@ Begoestia views the Council as a **clear metaphysical threat**, particularly wit
     
 - Certain factions within the Republic have tried to **recruit counter-philosophers** — mental defense agents trained in identifying and neutralizing “identity drift” associated with Council influence.
     
-- Within [[Druvenhal]], the **Archivist Ascendancy** and **Inkguard** actively monitor and contain potential Council references. Some whisper that [[Arch-Lexicon Thariel Vos]] herself once encountered a Council fragment — and lost a piece of herself in the process.
+- Within [[Druvenhal]], the **[[Archivist Ascendancy]]** and **Inkguard** actively monitor and contain potential Council references. Some whisper that [[Arch-Lexicon Thariel Vos]] herself once encountered a Council fragment — and lost a piece of herself in the process.
     
 - Despite public denouncement, Council rhetoric has subtly infected **free-thinker enclaves**, **Echo-afflicted districts**, and **renegade arcanists** frustrated by the Republic’s control of sanctioned truth.

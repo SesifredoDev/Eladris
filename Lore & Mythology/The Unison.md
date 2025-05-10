@@ -47,4 +47,4 @@ Some believe the Cantor is the first to hear the Unison. Others believe they _ar
     
 - **Events:** [[Disintegration of Istavan Ridge]], Echo-Folding outbreaks
     
-- **Artifacts:** [[Final Frequency]], [[Echo-Caged Hearts]], [[Vessels of Collapse]]
+- **Artifacts:** [[Echo-Caged Hearts]], [[Vessels of Collapse]]
