@@ -90,17 +90,6 @@ Though not overtly political, their influence over what is considered _true_ giv
 
 ---
 
-## 🧩 Story Potential
-
-- **A sealed memory archive begins humming with resonance.** It’s changing itself.
-    
-- **A junior Redscript Engineer goes rogue**, declaring the Veil must fall and the people deserve to know what’s been sealed.
-    
-- **A player's memory is found to contain an Echo-Class secret.** Does the Ascendancy erase it — or protect them?
-    
-
----
-
 ## 🔗 Related Topics
 
 - **Characters:** [[Arch-Lexicon Thariel Vos]], [[Warden Hespel Kree]]

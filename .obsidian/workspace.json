@@ -11,14 +11,10 @@
             "id": "e82e49308f6c9324",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plot/PC's/Bakou've De Mosan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bakou've De Mosan"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -81,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Blumengenia",
+                "query": "Story Potential",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plot/PC's/Bakou've De Mosan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bakou've De Mosan"
+              "title": "Backlinks"
             }
           },
           {
@@ -193,11 +188,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e82e49308f6c9324",
+  "active": "4a9efd20c2a5b331",
   "lastOpenFiles": [
+    "Factions/Archivist Ascendancy.md",
+    "combined_output.md",
+    "Plot/PC's/Bakou've De Mosan.md",
     "README.md",
     "Centreg.md",
-    "Plot/PC's/Bakou've De Mosan.md",
     "Locations/Mosan Diarchy.md",
     "NPC's/The Twin Monarchsof Mosan.md",
     "Locations/Drael’Korh — The Iron Grave.md",
@@ -211,7 +208,6 @@
     "Plot/Lore/Secrete lore of Kingdom of Cabuero.md",
     "Lore & Mythology/Warforged in Eladris.md",
     "NPC's/Warden Hespel Kree.md",
-    "Factions/Archivist Ascendancy.md",
     "Campaign  Overview.md",
     "Locations/Kingdom of Arilia.md",
     "Locations/Douravenian Theocracy.md",
@@ -221,7 +217,6 @@
     "Locations/Tsardom of Pebopetsia.md",
     "Locations/Duchy of Drestr.md",
     "Plot/Lore/Secrete lore about the Douravenian Theocracy.md",
-    "Factions/The Inkguard.md",
     "Recourses/Kingdom of Arilia.jpg",
     "Plot/Lore",
     "Untitled.canvas",
