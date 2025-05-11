@@ -1,3 +1,7 @@
+## 📍 Mosan Diarchy
+
+---
+
 ## 📍 Basic Info
 
 - **Type:** Dual Monarchy / Ritual Governance
@@ -16,6 +20,10 @@
 > Architecture here is austere, sculpted from wind-swept glassstone and echo-hollowed stone. Streets reflect starlight in unnaturally straight lines. Every citizen swears fealty to both rulers in mirrored fashion — one oath spoken aloud, one written in sand or shadow.
 
 The land itself is marked by the **Shardwinds** — unpredictable magical gales that carry memory-dust and fragments of voices. The people have adapted, speaking in gestures or layered tones when the wind sings.
+
+A profound mystery surrounds the two rulers themselves: the Diarchs are twin brothers, born under a veiled eclipse. During a resonance storm at their birth, one of the infants was briefly lost to the Veil — making him a **"lost one"** from the moment of his arrival. No record or rite has ever been able to confirm which brother is the lost one, and by sacred law, neither is permitted to acknowledge or investigate this truth. Yet together, they rule with grace and equilibrium, each compensating for the other's silence or speech.
+
+Only one of the brothers has a known heir — a child who will one day inherit the complexities of leaving mirrored rulership.
 
 ---
 

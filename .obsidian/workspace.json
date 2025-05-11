@@ -13,30 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Drieratil.md",
+                "file": "Plot/PC's/Bakou've De Mosan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drieratil"
+              "title": "Bakou've De Mosan"
             }
           },
           {
-            "id": "fa492ad8add55483",
+            "id": "14101528b0a8b939",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Drael’Korh — The Iron Grave.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drael’Korh — The Iron Grave"
+              "title": "README"
+            }
+          },
+          {
+            "id": "4383466b197bc7fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Mosan Diarchy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mosan Diarchy"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Plot/PC's/Bakou've De Mosan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Bakou've De Mosan"
             }
           },
           {
@@ -179,59 +193,21 @@
       "graph:Open graph view": false
     }
   },
-  "floating": {
-    "id": "3ea8b5bc014a0fa3",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2d2b01b6fd7e90d9",
-        "type": "window",
-        "children": [
-          {
-            "id": "b8266608b0a8a5b6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "56274d452d4b80ac",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Locations/Drael’Korh — The Iron Grave.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Drael’Korh — The Iron Grave"
-                }
-              },
-              {
-                "id": "c6d06b484fa56d60",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 1346,
-        "y": 1425,
-        "width": 720,
-        "height": 1392,
-        "maximize": true,
-        "zoom": -0.5
-      }
-    ]
-  },
-  "active": "c6d06b484fa56d60",
+  "active": "e82e49308f6c9324",
   "lastOpenFiles": [
+    "README.md",
+    "Centreg.md",
+    "Plot/PC's/Bakou've De Mosan.md",
+    "Locations/Mosan Diarchy.md",
+    "NPC's/The Twin Monarchsof Mosan.md",
     "Locations/Drael’Korh — The Iron Grave.md",
+    "Locations/Drieratil.md",
+    "NPC's/Kein Saldo.md",
+    "Locations/Republic Of Begoestia/Velquora/Obsidian Archives.md",
+    "Locations/Republic Of Begoestia/Velquora/Velquora.md",
+    "Locations/Republic Of Begoestia/Republic of Begoestia.md",
+    "Factions/RoB Governance.md",
+    "Plot/PC's",
     "Plot/Lore/Secrete lore of Kingdom of Cabuero.md",
     "Lore & Mythology/Warforged in Eladris.md",
     "NPC's/Warden Hespel Kree.md",
@@ -246,17 +222,6 @@
     "Locations/Duchy of Drestr.md",
     "Plot/Lore/Secrete lore about the Douravenian Theocracy.md",
     "Factions/The Inkguard.md",
-    "Factions/Inkguard.md",
-    "Lore & Mythology/Resonance Implosion.md",
-    "README.md",
-    "NPC's/Mother Revael.md",
-    "Locations/Principality of Thorinthia.md",
-    "Locations/Herwol.md",
-    "Locations/Grand Duchy of Blumengenia.md",
-    "Locations/Mosan Diarchy.md",
-    "Locations/Kingdom of Cabuero.md",
-    "Locations/Drieratil.md",
-    "Locations/Kingdom of Quintoria.md",
     "Recourses/Kingdom of Arilia.jpg",
     "Plot/Lore",
     "Untitled.canvas",

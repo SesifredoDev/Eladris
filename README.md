@@ -26,6 +26,7 @@ It is hard to say whether the resonance is due to the people using those abiliti
 2. **[[The Shardborn]]:** Individuals who thrive on the chaos, believing the fractured state brings opportunity and freedom.
 3. **[[The Council of Echoes]]:** A shadowy group of beings who exist in multiple Shards at once and manipulate events across realities.
 4. **[[The Cult of the Final Frequency]]:** Zealots who want to completely collapse the Veil and awaken a god-like being said to slumber in the “True Eladris.”
+5. **[Centreg]:** A neutral investigative order operating across all major nations, tasked with identifying and responding to Echo, Veil, and Resonance-related anomalies. Trusted by most governments; known for impartiality and precision.
 
 
 ## 🕰️ History
