@@ -8,41 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e82e49308f6c9324",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "14101528b0a8b939",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
             "id": "4383466b197bc7fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Mosan Diarchy.md",
+                "file": "Grand Timeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mosan Diarchy"
+              "title": "Grand Timeline"
             }
           }
         ]
@@ -118,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Grand Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Grand Timeline"
             }
           },
           {
@@ -188,17 +165,18 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e82e49308f6c9324",
+  "active": "4383466b197bc7fd",
   "lastOpenFiles": [
+    "Locations/Mosan Diarchy.md",
+    "Grand Timeline.md",
     "README.md",
+    "Factions/Centreg.md",
     "Factions/Order of the Still Reflection.md",
     "Locations/Republic Of Begoestia/Ceal'Tharryn.md",
     "Locations/Republic Of Begoestia/Republic of Begoestia.md",
     "Factions/Archivist Ascendancy.md",
     "combined_output.md",
     "Plot/PC's/Bakou've De Mosan.md",
-    "Factions/Centreg.md",
-    "Locations/Mosan Diarchy.md",
     "NPC's/The Twin Monarchsof Mosan.md",
     "Locations/Drael’Korh — The Iron Grave.md",
     "Locations/Drieratil.md",
@@ -216,7 +194,6 @@
     "Locations/Tiseresch Empire.md",
     "Locations/Bishopric of Bermat.md",
     "Locations/Merenvegy.md",
-    "Locations/Tsardom of Pebopetsia.md",
     "Recourses/Kingdom of Arilia.jpg",
     "Plot/Lore",
     "Untitled.canvas",
