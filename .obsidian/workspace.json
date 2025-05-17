@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c9d1ba334da01e99",
+        "id": "6fcc9ba90eacfa63",
         "type": "tabs",
         "children": [
           {
-            "id": "4383466b197bc7fd",
+            "id": "470904d21f59e866",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grand Timeline.md",
+                "file": "Locations/Republic Of Begoestia/Ceal'Tharryn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grand Timeline"
+              "title": "Ceal'Tharryn"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Story Potential",
+                "query": "Cindralune",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grand Timeline.md",
+                "file": "Locations/Republic Of Begoestia/Ceal'Tharryn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Grand Timeline"
+              "title": "Backlinks for Ceal'Tharryn"
             }
           },
           {
@@ -162,38 +162,45 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "4383466b197bc7fd",
+  "active": "470904d21f59e866",
   "lastOpenFiles": [
-    "Locations/Mosan Diarchy.md",
+    "Plot/PC's/Vel.md",
+    "Plot/PC's/Rhysander (Rhys), Echo Changling, Soulknife Rogue.md",
+    "Plot/PC's/Essi Daven.md",
+    "Plot/PC's/Bakou've De Mosan.md",
+    "Locations/Republic Of Begoestia/Ceal'Tharryn.md",
+    "Recourses/Kestrel’s Hold.jpg",
+    "Pasted image 20250515200554.png",
+    "Locations/Merenvegy.md",
+    "Pasted image 20250515174942.png",
+    "Pasted image 20250515174937.png",
+    "Locations/UnFixed/The Spiral Choir.md",
+    "Factions/The Veilbinders.md",
+    "Locations/Diocese of Fixeize.md",
+    "Plot/Test.md",
+    "Plot/Lore/NPC's/The One Between Tones.md",
+    "Plot/Lore/NPC's",
+    "NPC's/The Twin Monarchs of Mosan.md",
+    "Locations/Principality of Thorinthia.md",
     "Grand Timeline.md",
+    "Recourses/tavern.jpg",
+    "Recourses/emotion-slime.jpg",
+    "Locations/Mosan Diarchy.md",
     "README.md",
     "Factions/Centreg.md",
     "Factions/Order of the Still Reflection.md",
-    "Locations/Republic Of Begoestia/Ceal'Tharryn.md",
     "Locations/Republic Of Begoestia/Republic of Begoestia.md",
     "Factions/Archivist Ascendancy.md",
     "combined_output.md",
-    "Plot/PC's/Bakou've De Mosan.md",
-    "NPC's/The Twin Monarchsof Mosan.md",
     "Locations/Drael’Korh — The Iron Grave.md",
     "Locations/Drieratil.md",
     "NPC's/Kein Saldo.md",
     "Locations/Republic Of Begoestia/Velquora/Obsidian Archives.md",
-    "Locations/Republic Of Begoestia/Velquora/Velquora.md",
-    "Factions/RoB Governance.md",
     "Plot/PC's",
-    "Plot/Lore/Secrete lore of Kingdom of Cabuero.md",
-    "Lore & Mythology/Warforged in Eladris.md",
-    "NPC's/Warden Hespel Kree.md",
-    "Campaign  Overview.md",
-    "Locations/Kingdom of Arilia.md",
-    "Locations/Douravenian Theocracy.md",
-    "Locations/Tiseresch Empire.md",
-    "Locations/Bishopric of Bermat.md",
-    "Locations/Merenvegy.md",
     "Recourses/Kingdom of Arilia.jpg",
     "Plot/Lore",
     "Untitled.canvas",

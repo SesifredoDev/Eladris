@@ -5,8 +5,16 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "#pc",
+      "color": {
+        "a": 1,
+        "rgb": 65365
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +25,6 @@
   "repelStrength": 17.2519628836545,
   "linkStrength": 0.434332619557459,
   "linkDistance": 500,
-  "scale": 0.13641292611065325,
+  "scale": 0.09740343919755577,
   "close": true
 }

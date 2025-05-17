@@ -65,6 +65,7 @@ part of another reality entirely.
     - _The Winding Steps_ (multi-level housing complexes built vertically along gravity-defying cliffs)
 
 #### Kestrel’s Hold (Western Island)
+![[Kestrel’s Hold.jpg]]
 - Primarily militarized; training grounds, skyship docks, and arcane defense facilities.
 - Frequent patrols maintain order and readiness.
 - **Notable Buildings:**

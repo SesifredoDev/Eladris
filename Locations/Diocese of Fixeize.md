@@ -24,13 +24,10 @@ Fixeize maintains tense neutrality with its neighbors, tolerating trade from [[R
 - **Founding Lore:** Formed by exiles from a pre-Sundering metaphysical schism who declared all mutable truth to be heretical. Their founder, Alund Cexil, supposedly walked backward into the Veil and emerged with unbroken memory.
     
 - **Key Moments:**
-    
     - Instituted the Doctrine of the Fixed Line, a philosophy decreeing that only linear memory ensures moral coherence.
-        
     - Burned several Echo-tainted texts received from [[Druvenhal]], igniting decades of scholarly tension.
-        
+
     - Temporarily closed borders with [[Douravenian Theocracy]] over differing flame-interpretation rites, then reopened after a three-day silence pact.
-        
 
 ---
 
