@@ -159,7 +159,7 @@ header{
   --tw-bg-opacity: 0  !important;
 }
 header img{
-  /* display: none; */
+  display: none;
 }
 header *{
   background-color: transparent !important;
@@ -249,10 +249,10 @@ ul li::before {
 }
 
 footer{
-  /* display: none !important; */
+  display: none !important;
 }
 .z-100{
-  /* display: none !important; */
+  display: none !important;
 }
 
 /* ====== BLOCKQUOTE ====== */
