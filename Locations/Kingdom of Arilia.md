@@ -1,3 +1,4 @@
+
  ![[Kingdom of Arilia.jpg]]
  
 ## 📍 Basic Info

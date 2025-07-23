@@ -6,7 +6,7 @@
     
 - **Headquarters:** [[Druvenhal]], within the Athenaeum Citadel
     
-- **Notable Members:** [[Arch-Lexicon Thariel Vos]], [[Warden Hespel Kree]]
+- **Notable Members:** [[Arch-Lexicon Thariel Vos]], [[Warden Hespel Kree]],  [[Kahl of the Broken Note]]
     
 - **Allies/Rivals:**
     
