@@ -13,6 +13,7 @@
 
 ---
 
+
 ## 🎭 Personality & Motivations
 
 - **Core Traits:** Serith is cryptic, theatrical, and eerily serene. She speaks only in **reverse-tonal incantations**, a form of utterance that bypasses traditional language to affect the subconscious of those listening. Her presence is deeply unsettling — like hearing something familiar and wrong at the same time.

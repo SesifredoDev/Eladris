@@ -43,7 +43,7 @@
 
 - **Connected Characters:**
     
-    - [[Serith of the Folded Voice]] – A trusted prophet who claims to speak in the Cantor's reverse echoes
+    - [[Cearline - Serith of the Folded Voice]] – A trusted prophet who claims to speak in the Cantor's reverse echoes
         
     - [[Kahl of the Broken Note]] – One of their militant interpreters; a war-conductor of resonance
         

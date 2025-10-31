@@ -32,13 +32,13 @@ Despite this, the nobility of Quintoria remains deeply proud. Their knights wear
 
 ## 🌟 Key Locations
 
-- **Throsgarde:** The capital; a city of cracked grandeur. Known for echo-warped courts, failed statues, and the Tower of Sovereign Memory.
+- **[[Throsgarde]]:** The capital; a city of cracked grandeur. Known for echo-warped courts, failed statues, and the Tower of Sovereign Memory.
     
-- **Halvex:** A time-fractured city near the broken echo-forge. Certain buildings run on ancient momentum — others have vanished entirely.
+- **[[Halvex]]:** A time-fractured city near the broken echo-forge. Certain buildings run on ancient momentum — others have vanished entirely.
     
-- **Indrellen:** Rural stronghold; home to the last known sealed forge-chamber. Controlled by the elite Order of the Brazen Mantle.
+- **[[Indrellen]]:** Rural stronghold; home to the last known sealed forge-chamber. Controlled by the elite Order of the Brazen Mantle.
     
-- **The Gilded Threshold:** A ruined war-memorial structure that randomly replays battle scenes in fragments of sound and light.
+- **[[The Gilded Threshold]]:** A ruined war-memorial structure that randomly replays battle scenes in fragments of sound and light.
     
 
 ---

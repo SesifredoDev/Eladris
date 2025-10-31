@@ -4,7 +4,7 @@
     
 - **Region:** Eastern-central Eladris; bordered by [[Bishopric of Bermat]], [[Kingdom of Cabuero]], and fractured Veilstep channels
     
-- **Notable Cities:** Zhanzhurin, Yuegai, Sanlow Pass
+- **Notable Cities:** Zhanzhurin, Yuegai, Sanlow Pass, [[Kree'gan - Prince of the Emperor]]
     
 
 ---

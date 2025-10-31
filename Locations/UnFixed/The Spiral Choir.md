@@ -29,7 +29,7 @@
     
     - Birthplace of the first confirmed [[Vessel of Collapse]]
         
-    - Where [[Serith of the Folded Voice]] first began her reverse-tonal sermons
+    - Where [[Cearline - Serith of the Folded Voice]] first began her reverse-tonal sermons
         
     - Responsible for the "Disintegration of Istavan Ridge," an event that turned a border shard into crystalline salt over the course of one chanting week
         
@@ -55,7 +55,7 @@
 
 ## 🔗 Related Topics
 
-- **Connected Characters:** [[The Cantor]], [[Serith of the Folded Voice]], [[Kahl of the Broken Note]]
+- **Connected Characters:** [[The Cantor]], [[Cearline - Serith of the Folded Voice]], [[Kahl of the Broken Note]]
     
 - **Factions:** [[The Cult of the Final Frequency]]
     

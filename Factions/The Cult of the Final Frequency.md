@@ -6,7 +6,7 @@
     
 - **Headquarters:** [[The Spiral Choir]] (mobile)
     
-- **Notable Members:** [[The Cantor]], [[Serith of the Folded Voice]], [[Kahl of the Broken Note]]
+- **Notable Members:** [[The Cantor]], [[Cearline - Serith of the Folded Voice]], [[Kahl of the Broken Note]]
     
 - **Allies/Rivals:**
     
@@ -89,7 +89,7 @@ Despite persecution, the Cult draws followers from Echo survivors, disillusioned
 
 ## 🔗 Related Topics
 
-- **Characters:** [[The Cantor]], [[Serith of the Folded Voice]], [[Kahl of the Broken Note]]
+- **Characters:** [[The Cantor]], [[Cearline - Serith of the Folded Voice]], [[Kahl of the Broken Note]]
     
 - **Locations:** [[The Spiral Choir]], [[The Breathing Crypt]], [[The Hollow Tone]]
     

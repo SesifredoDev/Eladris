@@ -43,7 +43,7 @@ Some believe the Cantor is the first to hear the Unison. Others believe they _ar
 
 - **Factions:** [[The Cult of the Final Frequency]], [[The Veilbinders]]
     
-- **Characters:** [[The Cantor]], [[Serith of the Folded Voice]]
+- **Characters:** [[The Cantor]], [[Cearline - Serith of the Folded Voice]]
     
 - **Events:** [[Disintegration of Istavan Ridge]], Echo-Folding outbreaks
     

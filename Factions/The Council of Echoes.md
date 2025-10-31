@@ -8,7 +8,7 @@
 - **Headquarters:** Unknown; members appear in different forms across multiple Shards. Some believe their central gathering space exists in a stabilized Echo fold outside linear time.
     
 - **Notable Members:**
-    - _"The Unraveled"_ – Possibly a fragment of [[Alkharin the Frayed]]
+    -  [[Alkharin the Frayed]]
     - _“Saevra in Reflection”_ – Appears differently to each viewer, always cloaked in mirrored sigils
     - _“The Twin Who Was First”_ – Only seen in overlapping timelines; both child and ancient at once
         
