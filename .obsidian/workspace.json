@@ -67,12 +67,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Factions/The Cult of the Final Frequency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "The Cult of the Final Frequency"
+            }
+          },
+          {
+            "id": "60332ea8c5c03be2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC's/Vetra Korran.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vetra Korran"
             }
           },
           {
@@ -88,9 +102,89 @@
               "icon": "lucide-file",
               "title": "Principality of Thorinthia"
             }
+          },
+          {
+            "id": "01a1db4a3f4cd91c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "2503b79ecf8f9b49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "9a5a293e5d1d209b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Recourses/Eladrin 2025-04-24-22-24(3).jpeg"
+              },
+              "icon": "lucide-image",
+              "title": "Eladrin 2025-04-24-22-24(3)"
+            }
+          },
+          {
+            "id": "4a903cb26cf5aec3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "51a057917c057c3e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Recourses/8b967c7922dad98b0b258edb39a31049.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "8b967c7922dad98b0b258edb39a31049"
+            }
+          },
+          {
+            "id": "15340b7df78f1acb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -122,7 +216,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Cindralune",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5110321044922
+    "width": 241.5
   },
   "right": {
     "id": "e34d5965b6c5e21d",
@@ -236,20 +330,31 @@
       "graph:Open graph view": false
     }
   },
-  "active": "c9bd4c8332662cb4",
+  "active": "15340b7df78f1acb",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Locations/Jorra Mynt.md",
+    "NPC's/Vetra Korran.md",
+    "Untitled.md",
+    "Factions/The Cult of the Final Frequency.md",
     "README.md",
-    "NPC's/Kein Saldo.md",
-    "Recourses/Eladrin 2025-04-24-22-24(3).jpeg",
-    "Locations/Kingdom of Quintoria/Kingdom of Quintoria.md",
     "Factions/The Inkguard.md",
+    "Recourses/8b967c7922dad98b0b258edb39a31049.jpg",
+    "Recourses/Alkharin the Frayed.jpg",
+    "Recourses/Kein Saldo.jpg",
+    "Recourses/Mnemarch.jpg",
+    "Recourses/Myzreth.jpg",
+    "Recourses/Eladrin 2025-04-24-22-24(3).jpeg",
+    "NPC's/Kein Saldo.md",
+    "Locations/UnFixed/The Spiral Choir.md",
+    "Locations/Drieratil/Drieratil.md",
+    "Locations/Kingdom of Quintoria/Kingdom of Quintoria.md",
     "Locations/Principality of Thorinthia.md",
     "Plot/PC's/Essi Daven.md",
     "Plot/PC's/Rhysander (Rhys), Echo Changling, Soulknife Rogue.md",
     "Locations/Republic Of Begoestia/Republic of Begoestia.md",
     "NPC's/Sov Gerecht.md",
     "Grand Timeline.md",
-    "Factions/The Cult of the Final Frequency.md",
     "Lore & Mythology/Begoestia's Rulers.md",
     "Plot/Lore/Secrete lore of Viagosian Empire.md",
     "Plot/Lore/Secrete Lore of Virterra.md",
@@ -259,25 +364,13 @@
     "Locations/Tsardom of Pebopetsia.md",
     "NPC's/Warden Hespel Kree.md",
     "Locations/Republic Of Begoestia/Tessavar Reach.md",
-    "Locations/Republic Of Begoestia/The Inkcloaks of Begoestia (Thieves’ Guild).md",
     "Recourses/Druvenhal.jpg",
-    "Locations/Republic Of Begoestia/Myzreth.md",
-    "Locations/Republic Of Begoestia/Nauvein.md",
-    "Locations/Republic Of Begoestia/Caldrith Vale.md",
-    "Locations/Republic Of Begoestia/Velquora/The Ethereal Academy.md",
-    "Locations/Republic Of Begoestia/Velquora/Obsidian Archives.md",
-    "Untitled.base",
     "Untitled 2.base",
     "Untitled 1.base",
     "Plot/Lore/Pebpestian One-shot",
     "Recourses/blossomTree 1.jpg",
     "Recourses/blossomTree.jpg",
-    "Recourses/Alkharin the Frayed.jpg",
     "Recourses/9499d954fb36bcc26b1d3f335ea801bf-2785060804.jpg",
-    "Recourses/8b967c7922dad98b0b258edb39a31049.jpg",
-    "Recourses/Velquora.jpg",
-    "Recourses/Tessavar-map.png",
-    "Recourses/tavern-cellar.jpg",
     "Untitled.canvas",
     "Locations/Grand Duchy of Blumengenia/Untitled",
     "Locations/Grand Duchy of Blumengenia",
