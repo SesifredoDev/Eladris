@@ -1,8 +1,8 @@
 {
     "showSidebar": true,
-    "contentExclude": [
-        "Plot/**",
-        "NPC's/**"
+    "exclude": [
+        "Plot",
+        "NPC's"
     ]
 }
   
