@@ -22,17 +22,15 @@
             }
           },
           {
-            "id": "296c193395e04b29",
+            "id": "8de0b6ff414a903a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Recourses/Eladrin 2025-04-24-22-24(3).jpeg"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-image",
+              "title": "Eladrin 2025-04-24-22-24(3)"
             }
           }
         ],
@@ -196,8 +194,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "296c193395e04b29",
+  "active": "8de0b6ff414a903a",
   "lastOpenFiles": [
+    "config.json~",
+    "Factions/The Veilbinders.md",
+    "Factions/The Inkguard.md",
+    "Factions/The Cult of the Final Frequency.md",
+    "Factions/The Council of Echoes.md",
+    "Factions/RoB Governance.md",
+    "Factions/Circle of the Veil.md",
+    "Factions/Centreg.md",
+    "Factions/Archivist Ascendancy.md",
+    "README.md",
+    "Recourses/Eladrin 2025-04-24-22-24(3).jpeg",
     "custom.css~",
     "Grand Timeline.md",
     "Locations/Tsardom of Pebopetsia.md",
@@ -214,15 +223,10 @@
     "Documents/Eladris/Documents",
     "Documents/Eladris",
     "Documents",
-    "Factions/Archivist Ascendancy.md",
     "Locations/Mosan Diarchy/Mosan Diarchy.md",
-    "README.md",
     "Locations/Principality of Thorinthia.md",
-    "Recourses/Eladrin 2025-04-24-22-24(3).jpeg",
     "Voltus Tyrval & The Zenith Aegis.md",
     "Items/Thread-Anchor Relics.md",
-    "Factions/Circle of the Veil.md",
-    "Factions/The Veilbinders.md",
     "Plot/Lore/Nisrith Session.md",
     "Plot/PC's/Bakou've De Mosan.md",
     "Recourses/Nisrith Session.pdf",
@@ -230,18 +234,12 @@
     "Locations/Nisrith.md",
     "Recourses/Nisrith.pdf",
     "template/Location.md",
-    "Factions/The Cult of the Final Frequency.md",
     "Recourses/The Cult of the Final Frequency.pdf",
-    "Recourses/The Veilbinders.pdf",
     "template/NPC.md",
     "Recourses/Nisrith-City of the Sea.jpeg",
     "Factions/Order of the Still Reflection.md",
-    "Locations/Astral Plane.md",
-    "Locations/Drael’Korh — The Iron Grave.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "NPC's/Cearline - Serith of the Folded Voice.md",
-    "Locations/Jorra Mynt.md",
     "Recourses/8b967c7922dad98b0b258edb39a31049.jpg",
     "Recourses/Alkharin the Frayed.jpg",
     "Recourses/Kein Saldo.jpg",
