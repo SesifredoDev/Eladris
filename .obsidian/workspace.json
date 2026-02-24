@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f54154bc1b00ec97",
+        "id": "426698637fb1770a",
         "type": "tabs",
         "children": [
           {
-            "id": "69425d11db0e7bb6",
+            "id": "a83b111c1dabc147",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,169 +22,21 @@
             }
           },
           {
-            "id": "c9bd4c8332662cb4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Recourses/Eladrin 2025-04-24-22-24(3).jpeg"
-              },
-              "icon": "lucide-image",
-              "title": "Eladrin 2025-04-24-22-24(3)"
-            }
-          },
-          {
-            "id": "3f7c3e0c68b0450e",
+            "id": "296c193395e04b29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC's/Kein Saldo.md",
+                "file": "Locations/Tsardom of Pebopetsia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kein Saldo"
-            }
-          },
-          {
-            "id": "9d5cf2e7790d0321",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/The Inkguard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Inkguard"
-            }
-          },
-          {
-            "id": "031500400d4d8f00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/The Cult of the Final Frequency.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Cult of the Final Frequency"
-            }
-          },
-          {
-            "id": "60332ea8c5c03be2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/Vetra Korran.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vetra Korran"
-            }
-          },
-          {
-            "id": "93eea88c010fcc04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Principality of Thorinthia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Principality of Thorinthia"
-            }
-          },
-          {
-            "id": "01a1db4a3f4cd91c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "2503b79ecf8f9b49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "9a5a293e5d1d209b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Recourses/Eladrin 2025-04-24-22-24(3).jpeg"
-              },
-              "icon": "lucide-image",
-              "title": "Eladrin 2025-04-24-22-24(3)"
-            }
-          },
-          {
-            "id": "4a903cb26cf5aec3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "51a057917c057c3e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Recourses/8b967c7922dad98b0b258edb39a31049.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "8b967c7922dad98b0b258edb39a31049"
-            }
-          },
-          {
-            "id": "15340b7df78f1acb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Tsardom of Pebopetsia"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,6 +87,20 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "0e6c62258e019d35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Astral Plane.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Astral Plane"
             }
           }
         ]
@@ -330,53 +196,55 @@
       "graph:Open graph view": false
     }
   },
-  "active": "15340b7df78f1acb",
+  "active": "296c193395e04b29",
   "lastOpenFiles": [
-    "Untitled.base",
+    "Recourses/Tsardom of Pebopetsia.pdf",
+    "Recourses/Pasted image 20250524153426.png",
+    "Recourses/Pebopestia.jpg",
+    "Locations/Tsardom of Pebopetsia.md",
+    "Recourses/Pebopestia Map.png",
+    "Documents/Eladris/Documents/Eladris/Recourses/Pebopestia Map.png",
+    "Documents/Eladris/Documents/Eladris/Recourses",
+    "Documents/Eladris/Documents/Eladris",
+    "Documents/Eladris/Documents",
+    "Documents/Eladris",
+    "Documents",
+    "Factions/Archivist Ascendancy.md",
+    "Locations/Mosan Diarchy/Mosan Diarchy.md",
+    "README.md",
+    "Grand Timeline.md",
+    "Locations/Principality of Thorinthia.md",
+    "Recourses/Eladrin 2025-04-24-22-24(3).jpeg",
+    "Voltus Tyrval & The Zenith Aegis.md",
+    "Items/Thread-Anchor Relics.md",
+    "Factions/Circle of the Veil.md",
+    "Factions/The Veilbinders.md",
+    "Plot/Lore/Nisrith Session.md",
+    "Plot/PC's/Bakou've De Mosan.md",
+    "Recourses/Nisrith Session.pdf",
+    "NPC's/Han Qing-jao.md",
+    "Locations/Nisrith.md",
+    "Recourses/Nisrith.pdf",
+    "template/Location.md",
+    "Factions/The Cult of the Final Frequency.md",
+    "Recourses/The Cult of the Final Frequency.pdf",
+    "Recourses/The Veilbinders.pdf",
+    "Recourses/Han Qing-jao.pdf",
+    "template/NPC.md",
+    "Recourses/Nisrith-City of the Sea.jpeg",
+    "Factions/Order of the Still Reflection.md",
+    "Locations/Astral Plane.md",
+    "Locations/Drael’Korh — The Iron Grave.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "NPC's/Cearline - Serith of the Folded Voice.md",
     "Locations/Jorra Mynt.md",
     "NPC's/Vetra Korran.md",
-    "Untitled.md",
-    "Factions/The Cult of the Final Frequency.md",
-    "README.md",
     "Factions/The Inkguard.md",
     "Recourses/8b967c7922dad98b0b258edb39a31049.jpg",
     "Recourses/Alkharin the Frayed.jpg",
     "Recourses/Kein Saldo.jpg",
     "Recourses/Mnemarch.jpg",
-    "Recourses/Myzreth.jpg",
-    "Recourses/Eladrin 2025-04-24-22-24(3).jpeg",
-    "NPC's/Kein Saldo.md",
-    "Locations/UnFixed/The Spiral Choir.md",
-    "Locations/Drieratil/Drieratil.md",
-    "Locations/Kingdom of Quintoria/Kingdom of Quintoria.md",
-    "Locations/Principality of Thorinthia.md",
-    "Plot/PC's/Essi Daven.md",
-    "Plot/PC's/Rhysander (Rhys), Echo Changling, Soulknife Rogue.md",
-    "Locations/Republic Of Begoestia/Republic of Begoestia.md",
-    "NPC's/Sov Gerecht.md",
-    "Grand Timeline.md",
-    "Lore & Mythology/Begoestia's Rulers.md",
-    "Plot/Lore/Secrete lore of Viagosian Empire.md",
-    "Plot/Lore/Secrete Lore of Virterra.md",
-    "Factions/The Council of Echoes.md",
-    "Plot/Lore/Pebpestian One-shot/Henchmen of the Spiral Choir.md",
-    "Locations/Republic Of Begoestia/Druvenhal.md",
-    "Locations/Tsardom of Pebopetsia.md",
-    "NPC's/Warden Hespel Kree.md",
-    "Locations/Republic Of Begoestia/Tessavar Reach.md",
-    "Recourses/Druvenhal.jpg",
-    "Untitled 2.base",
-    "Untitled 1.base",
-    "Plot/Lore/Pebpestian One-shot",
-    "Recourses/blossomTree 1.jpg",
-    "Recourses/blossomTree.jpg",
-    "Recourses/9499d954fb36bcc26b1d3f335ea801bf-2785060804.jpg",
-    "Untitled.canvas",
-    "Locations/Grand Duchy of Blumengenia/Untitled",
-    "Locations/Grand Duchy of Blumengenia",
-    "Locations/Tiseresch Empire",
-    "Locations/Kingdom of Cabuero",
-    "Untitled 4.base",
-    "Excalidraw"
+    "NPC's/Kein Saldo.md"
   ]
 }

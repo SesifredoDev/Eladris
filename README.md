@@ -20,10 +20,9 @@ It is hard to say whether the resonance is due to the people using those abiliti
 ## **Factions:**
 
 1. **[[The Veilbinders]]:** Monks and mages who seek to stabilize the Shards and restore Elaris to its original form.
-2. **[[The Shardborn]]:** Individuals who thrive on the chaos, believing the fractured state brings opportunity and freedom.
-3. **[[The Council of Echoes]]:** A shadowy group of beings who exist in multiple Shards at once and manipulate events across realities.
-4. **[[The Cult of the Final Frequency]]:** Zealots who want to completely collapse the Veil and awaken a god-like being said to slumber in the “True Eladris.”
-5. **[[Centreg]]:** A neutral investigative order operating across all major nations, tasked with identifying and responding to Echo, Veil, and Resonance-related anomalies. Trusted by most governments; known for impartiality and precision.
+2. **[[The Council of Echoes]]:** A shadowy group of beings who exist in multiple Shards at once and manipulate events across realities.
+3. **[[The Cult of the Final Frequency]]:** Zealots who want to completely collapse the Veil and awaken a god-like being said to slumber in the “True Eladris.”
+4. **[[Centreg]]:** A neutral investigative order operating across all major nations, tasked with identifying and responding to Echo, Veil, and Resonance-related anomalies. Trusted by most governments; known for impartiality and precision.
 
 ## Common Tongue
 - **Irslade** (pronounced ire-slayed):  The other world (note that in “irslade” they will not know this term, as this is a term invented by the people of your reality)
