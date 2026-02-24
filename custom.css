@@ -40,7 +40,12 @@ h1, h2, h3, h4 {
   color: #e9d8fd;
 }
 
+.page-header-title{
+  color: white;
+}
+
 h1 {
+  color: white;
   font-size: 3rem;
   margin-bottom: 1rem;
   border-bottom: 2px solid #a78bfa ;
@@ -331,5 +336,8 @@ img {
   animation: fadeInUp 1.5s ease both;
 }
 #built-with-button{
-  display: none;
+  display: none !important;
+  img{
+    display: none;
+  }
 }
