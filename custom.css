@@ -331,6 +331,11 @@ img {
   transition-duration: 2s;
 
 }
+
+.site-tree-item{
+  color: white!important;
+}
+
 /* Keep navbar and footer static but cleanly appearing */
 .navbar, footer {
   animation: fadeInUp 1.5s ease both;
